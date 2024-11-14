@@ -4,7 +4,8 @@
 - ⚛️ Cursando Ciência da Computação (UFPB)
 - 📖 Faço parte de projetos de Ensino e Extensão pela UFPB
 - ✉️ Contate-me no email: caiorafaeldop@gmail.com
-
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiorafaeldop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Linguagens e Ferramentas: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -15,3 +16,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
 </div>
+
