@@ -1,4 +1,4 @@
-## Olá! 👋
+## Olá! Bem-vindo ao meu perfil Github! 👋
 
 - 🔭 Atualmente trabalho com Front-End na empresa Laks
 - 🌱 Faço parte de projetos de Ensino e Extensão pela UFPB
