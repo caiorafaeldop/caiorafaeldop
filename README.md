@@ -1,6 +1,6 @@
 ## 👋 Hello! Welcome to my GitHub profile!
 
-- 💻 Currently working as a Front-End Developer at Laks
+- 💻 Currently working as a Full-stack Developer at Laks
 - ⚛️ Studying Computer Science at UFPB (Federal University of Paraíba)
 - 📖 Involved in Teaching and Extension projects at UFPB
 - 📊 Knowledge in data visualization with Power BI
