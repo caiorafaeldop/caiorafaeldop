@@ -6,6 +6,15 @@
 - 📊 Knowledge in data visualization with Power BI
 - ✉️ Reach me at: caiorafaeldop@gmail.com
 
+Meus dois grandes Projetos
+
+Sistema de Gerenciamento para a Rede Feminina de Combate ao Câncer da Paraíba
+(https://rede-feminina-colab.onrender.com)
+
+Landing page com Gerenciamento de Leads e blog integrado para o Ex-Presidente da OAB da Paraíba Dr. Paulo Maia
+
+(https://maia-advocacia-site-99-1.onrender.com/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiorafaeldop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Languages and Tools:
