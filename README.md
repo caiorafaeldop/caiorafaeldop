@@ -6,8 +6,8 @@
 - 📊 Knowledge in data visualization with Power BI
 - ✉️ Reach me at: caiorafaeldop@gmail.com
 
-Meus dois grandes Projetos:
-My two major projects:
+Meus dois grandes Projetos
+(My two major projects):
 
 Sistema de Gerenciamento para a Rede Feminina de Combate ao Câncer da Paraíba
 (Management System for he Paraíba Women's Network to Combat Cancer):
