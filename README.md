@@ -10,12 +10,10 @@ Meus dois grandes Projetos:
 My two major projects:
 
 Sistema de Gerenciamento para a Rede Feminina de Combate ao Câncer da Paraíba
-
 Management System for he Paraíba Women's Network to Combat Cancer
 (https://rede-feminina-colab.onrender.com)
 
 Landing page com Gerenciamento de Leads e blog integrado para o Ex-Presidente da OAB da Paraíba Dr. Paulo Maia
-
 Landing page with lead management and integrated blog for the former President of the Paraíba Bar Association, Dr. Paulo Maia
 (https://maia-advocacia-site-99-1.onrender.com/)
 
