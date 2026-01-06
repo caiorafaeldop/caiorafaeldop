@@ -9,11 +9,7 @@
 - ✉️ caiorafaeldop@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/crop1210) | [Portfolio](https://caio-rafael-portfolio-dev.onrender.com/)
 
-## 🔥 Meu Streak de Contribuições / My Contribution Streak
 
-<img src="https://streak-stats.demolab.com/?user=SEU_USERNAME_AQUI&theme=tokyonight&hide_border=true&border_radius=10&date_format=j M Y" alt="GitHub Streak"/>
-
-> Mostra total de contribuições, streak atual e maior streak! / Shows total contributions, current and longest streak!
 
 ## 🚀 Skills Principais / Main Skills
 
