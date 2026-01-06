@@ -1,32 +1,52 @@
-## 👋 Hello! Welcome to my GitHub profile!
+# 👋 Olá! Hi! Eu sou Caio Rafael de Oliveira
 
-- 💻 Currently working as a Full-stack Developer at Laks
-- ⚛️ Studying Computer Science at UFPB (Federal University of Paraíba)
-- 📖 Involved in Teaching and Extension projects at UFPB
-- 📊 Knowledge in data visualization with Power BI
-- ✉️ Reach me at: caiorafaeldop@gmail.com
+**Desenvolvedor Full Stack** | **Full Stack Developer** com +3 anos de experiência em aplicações web escaláveis e SaaS.
 
-Meus grandes Projetos
-(My major projects):
+- 💼 Atual: Full Stack Engineer na Laks Tecnologia (remoto)  
+- 🎓 Graduando em Ciência da Computação - UFPB  
+- 👨‍🏫 Projetos de ensino e extensão na UFPB  
+- 📍 João Pessoa, Paraíba - Brasil  
+- ✉️ caiorafaeldop@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/crop1210) | [Portfolio](https://caio-rafael-portfolio-dev.onrender.com/)
 
-Sistema de Gerenciamento para a Rede Feminina de Combate ao Câncer da Paraíba
-(Management System for he Paraíba Women's Network to Combat Cancer):
- https://rede-feminina-colab.onrender.com
+## 🚀 Skills Principais / Main Skills
 
-Landing page com Gerenciamento de Leads e blog integrado para o Ex-Presidente da OAB da Paraíba Dr. Paulo Maia
-(Landing page with lead management and integrated blog for the former President of the Paraíba Advocates Association, Dr. Paulo Maia):
- https://maia-advocacia-site-99-1.onrender.com
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiorafaeldop&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+Outras / Others: Vue.js, Angular, MongoDB, Stripe, Supabase, Docker, Azure, AWS, Clean Architecture, SOLID, CI/CD, Git, Agile, Sentry, WhatsApp API.
 
-### 🛠️ Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+**Idiomas / Languages**: Português (Nativo) | English (Full professional proficiency)
+
+## 📊 Estatísticas GitHub / GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight&hide=html,css"/>
+
+> *Porcentagens baseadas em repositórios públicos / Percentages based on public repositories.*
+
+## 🛠️ Tecnologias / Technologies
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="50" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="50" alt="Prisma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="50" alt="Power BI"/>
 </div>
+
+## 📌 Projetos / Projects
+
+Confira todos no meu [Portfolio](https://caio-rafael-portfolio-dev.onrender.com/)!
+
+Obrigado pela visita! Thanks for visiting! 🚀
