@@ -1,11 +1,10 @@
-# 👋 Olá! Hi! Eu sou Caio Rafael de Oliveira
+# 👋 Hi! I am Eu sou Caio Rafael de Oliveira
 
-**Desenvolvedor Full Stack** | **Full Stack Developer** com +3 anos de experiência em aplicações web escaláveis e SaaS.
+**Desenvolvedor Full Stack** | **Full Stack Developer** 
 
-- 💼 Atual: Full Stack Engineer na Laks Tecnologia (remoto)  
-- 🎓 Graduando em Ciência da Computação - UFPB  
-- 👨‍🏫 Projetos de ensino e extensão na UFPB  
-- 📍 João Pessoa, Paraíba - Brasil  
+- 💼 Full Stack Engineer at Laks Tecnologia (remoto)  
+- 🎓 Bacharelado em Ciência da Computação - UFPB | BsC in Computer Science - UFPB
+- 📍 João Pessoa, Paraíba - Brazil  
 - ✉️ caiorafaeldop@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/crop1210) | [Portfolio](https://caio-rafael-portfolio-dev.onrender.com/)
 
