@@ -1,12 +1,19 @@
-# 👋 Hi! I am Eu sou Caio Rafael de Oliveira
+# 👋 Olá! Hi! Eu sou Caio Rafael de Oliveira
 
-**Desenvolvedor Full Stack** | **Full Stack Developer** 
+**Desenvolvedor Full Stack** | **Full Stack Developer** com +3 anos de experiência em aplicações web escaláveis e SaaS.
 
-- 💼 Full Stack Engineer at Laks Tecnologia (remoto)  
-- 🎓 Bacharelado em Ciência da Computação - UFPB | BsC in Computer Science - UFPB
-- 📍 João Pessoa, Paraíba - Brazil  
+- 💼 Atual: Full Stack Engineer na Laks Tecnologia (remoto)  
+- 🎓 Graduando em Ciência da Computação - UFPB  
+- 👨‍🏫 Projetos de ensino e extensão na UFPB  
+- 📍 João Pessoa, Paraíba - Brasil  
 - ✉️ caiorafaeldop@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/crop1210) | [Portfolio](https://caio-rafael-portfolio-dev.onrender.com/)
+
+## 🔥 Meu Streak de Contribuições / My Contribution Streak
+
+<img src="https://streak-stats.demolab.com/?user=SEU_USERNAME_AQUI&theme=tokyonight&hide_border=true&border_radius=10&date_format=j M Y" alt="GitHub Streak"/>
+
+> Mostra total de contribuições, streak atual e maior streak! / Shows total contributions, current and longest streak!
 
 ## 🚀 Skills Principais / Main Skills
 
@@ -22,13 +29,6 @@
 Outras / Others: Vue.js, Angular, MongoDB, Stripe, Supabase, Docker, Azure, AWS, Clean Architecture, SOLID, CI/CD, Git, Agile, Sentry, WhatsApp API.
 
 **Idiomas / Languages**: Português (Nativo) | English (Full professional proficiency)
-
-## 📊 Estatísticas GitHub / GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=tokyonight&hide=html,css"/>
-
-> *Porcentagens baseadas em repositórios públicos / Percentages based on public repositories.*
 
 ## 🛠️ Tecnologias / Technologies
 
