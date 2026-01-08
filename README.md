@@ -1,4 +1,4 @@
-# 👋 Olá! Hi! Eu sou Caio Rafael de Oliveira
+# Caio Rafael de Oliveira
 
 **Desenvolvedor Full Stack** | **Full Stack Developer** com +3 anos de experiência em aplicações web escaláveis e SaaS.
 
