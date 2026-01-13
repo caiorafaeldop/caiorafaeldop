@@ -3,7 +3,7 @@
 **Desenvolvedor Full Stack** | **Full Stack Developer** com +3 anos de experiência em aplicações web escaláveis e SaaS.
 
 - 💼 Atual: Full Stack Engineer na Laks Tecnologia (remoto)  
-- 🎓 Graduando em Ciência da Computação - UFPB  
+- 🎓 Bacharel em Ciência da Computação - UFPB  
 - 👨‍🏫 Projetos de ensino e extensão na UFPB  
 - 📍 João Pessoa, Paraíba - Brasil  
 - ✉️ caiorafaeldop@gmail.com  
