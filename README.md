@@ -1,6 +1,6 @@
 # Caio Rafael de Oliveira
 
-**Desenvolvedor Full Stack** | **Full Stack Developer** com +3 anos de experiência em aplicações web escaláveis e SaaS.
+**Desenvolvedor Full Stack** | **Full Stack Developer** com +4 anos de experiência em aplicações web escaláveis e SaaS.
 
 - 💼 Atual: Full Stack Engineer na Laks Tecnologia (remoto)  
 - 🎓 Bacharel em Ciência da Computação - UFPB  
